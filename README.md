@@ -1,1 +1,1 @@
-# bekare
+# bakery
